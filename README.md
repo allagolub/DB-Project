@@ -13,13 +13,13 @@
 ## Модели
 
 ## Концептуальная
-![концептуальная](./models/Conceptual model.png)
+![концептуальная](./models/Conceptual_model.png)
 
 ## Логическая
-![логическая](./models/Logical model.png)
+![логическая](./models/Logical_model.png)
 
 ## Физическая
-![физическая](./models/Physical model.png)
+![физическая](./models/Physical_model.png)
 
 ## Создание и заполнение БД
 Выбранная СУБД - PostgreSQL
